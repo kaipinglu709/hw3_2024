@@ -169,7 +169,7 @@ first div in the grid  and place it in the grid. */
 .method{
   grid-row: 3;
 }
-
+ 
 .clients{
   grid-row: 4;
 }
